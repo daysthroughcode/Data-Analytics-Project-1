@@ -1,4 +1,4 @@
-# Behaviour of residential construction and real estate markets in W.A. during Covid-19 Crisis
+# Behaviour of Real Estate markets in W.A. during Covid-19 Crisis
 
 ## Team members
 - Lauren Prins
